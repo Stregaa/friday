@@ -1,2 +1,6 @@
+Invite link:
+https://discord.com/api/oauth2/authorize?client_id=918777121772560385&permissions=8&scope=bot%20applications.commands
+
+To do:
 - music
 - ??
