@@ -1,4 +1,5 @@
 const { SlashCommandBuilder } = require('@discordjs/builders');
+
 const os = require("os")
 
 // Gets the day of the week
